@@ -1,0 +1,23 @@
+{
+  "name": "jstestingpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatIsCoding/JSTestingPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatIsCoding/JSTestingPractice/issues"
+  },
+  "homepage": "https://github.com/KatIsCoding/JSTestingPractice#readme",
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}
